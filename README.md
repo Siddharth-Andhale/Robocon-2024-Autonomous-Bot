@@ -9,7 +9,6 @@ Code and development for the autonomous robot used in the Robocon 2024 competiti
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Robocon 2024 autonomous bot is a differential drive robot capable of detecting, picking up, and placing color balls during the competition. It utilizes a Jetson Nano as the main computing board, interfaced with an Arduino Mega for motor control and sensor data acquisition.
